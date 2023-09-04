@@ -1,6 +1,6 @@
 # VASILEIOS ANASTASIADIS
 
-
+zbynek-burival-GrmwVnVSSdU-unsplash.jpg
 # Crude-Oil-Price-WTI-Prediction-TensorFlow
 
 **Overview**
