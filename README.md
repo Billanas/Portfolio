@@ -1,6 +1,7 @@
 # VASILEIOS ANASTASIADIS
 
-[zbynek-burival-GrmwVnVSSdU-unsplash.jpg](https://github.com/Billanas/Portfolio/blob/98ae6a22a5a17da4be34585dffd8edab5a83ee66/zbynek-burival-GrmwVnVSSdU-unsplash.jpg)
+![image](https://github.com/Billanas/Portfolio/assets/135276462/d8fcf2a2-2667-4935-8a71-44b28849bf18)
+
 # Crude-Oil-Price-WTI-Prediction-TensorFlow
 
 **Overview**
