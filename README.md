@@ -30,7 +30,7 @@ The purpose of this project is to provide a simulation-based approach to forecas
  <br/>
 
 
- # [Duolingo-Stock-Analysis-Beta-CAPM](https://github.com/Billanas/Duolingo-Stock-Analysis-Beta-CAPM/tree/main)
+ #[Duolingo-Stock-Analysis-Beta-CAPM](https://github.com/Billanas/Duolingo-Stock-Analysis-Beta-CAPM/tree/main)
   <br/>
  ![image](https://github.com/Billanas/Portfolio/assets/135276462/8d5c5c6e-a700-4094-b5be-678e056a05a0)
 
