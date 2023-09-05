@@ -31,10 +31,17 @@ The purpose of this project is to provide a simulation-based approach to forecas
  # [Duolingo-Stock-Analysis-Beta-CAPM](https://github.com/Billanas/Duolingo-Stock-Analysis-Beta-CAPM/tree/main)
  ![image](https://github.com/Billanas/Portfolio/assets/135276462/8d5c5c6e-a700-4094-b5be-678e056a05a0)
 
-Introduction
+**Introduction**
 
 In this project, we perform a comprehensive analysis of Duolingo's stock to assess its risk and expected return. By calculating beta, we can evaluate the stock's sensitivity to market movements. Additionally, we apply the CAPM to estimate the appropriate required return for holding Duolingo's stock.
 
-Capital Asset Pricing Model (CAPM)
+**Capital Asset Pricing Model (CAPM)**
 
 The CAPM allows us to estimate the expected return of Duolingo's stock based on its beta and the risk-free rate of return. By incorporating both systematic and unsystematic risk factors, the CAPM provides a comprehensive framework for assessing the stock's potential returns.
+
+<br/>
+ <br/>
+ <br/>
+
+ # [Average-return-CNI-stock-price](https://github.com/Billanas/Average-return-CNI-stock-price/tree/main)
+ ![image](https://github.com/Billanas/Portfolio/assets/135276462/b23db4dd-d16d-4e4e-9e0e-7391e49ad96f)
