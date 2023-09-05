@@ -16,11 +16,25 @@ Photo by <a href="https://unsplash.com/@zburival?utm_source=unsplash&utm_medium=
  <br/>
  <br/>
  <br/>
- <br/>
- <br/>
- <br/>
+
 
 # [Duolingo-Stock-MonteCarlo-Simulations](https://github.com/Billanas/Duolingo-Stock-MonteCarlo-Simulations)
 ![image](https://github.com/Billanas/Portfolio/assets/135276462/a5358301-0272-47dd-9b23-25693f6e0f36)
 
 The purpose of this project is to provide a simulation-based approach to forecast Duolingo's stock price. By employing the Monte Carlo method, we can generate multiple potential scenarios and analyze the potential range of outcomes.
+
+<br/>
+ <br/>
+ <br/>
+
+
+ # [Duolingo-Stock-Analysis-Beta-CAPM](https://github.com/Billanas/Duolingo-Stock-Analysis-Beta-CAPM/tree/main)
+ ![image](https://github.com/Billanas/Portfolio/assets/135276462/8d5c5c6e-a700-4094-b5be-678e056a05a0)
+
+Introduction
+
+In this project, we perform a comprehensive analysis of Duolingo's stock to assess its risk and expected return. By calculating beta, we can evaluate the stock's sensitivity to market movements. Additionally, we apply the CAPM to estimate the appropriate required return for holding Duolingo's stock.
+
+Capital Asset Pricing Model (CAPM)
+
+The CAPM allows us to estimate the expected return of Duolingo's stock based on its beta and the risk-free rate of return. By incorporating both systematic and unsystematic risk factors, the CAPM provides a comprehensive framework for assessing the stock's potential returns.
