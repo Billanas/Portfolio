@@ -29,6 +29,7 @@ The purpose of this project is to provide a simulation-based approach to forecas
 
 
  # [Duolingo-Stock-Analysis-Beta-CAPM](https://github.com/Billanas/Duolingo-Stock-Analysis-Beta-CAPM/tree/main)
+  <br/>
  ![image](https://github.com/Billanas/Portfolio/assets/135276462/8d5c5c6e-a700-4094-b5be-678e056a05a0)
 
 **Introduction**
@@ -43,7 +44,8 @@ The CAPM allows us to estimate the expected return of Duolingo's stock based on 
  <br/>
  <br/>
 
- # [Average-return-CNI-stock-price](https://github.com/Billanas/Average-return-CNI-stock-price/tree/main)
- ![image](https://github.com/Billanas/Portfolio/assets/135276462/b23db4dd-d16d-4e4e-9e0e-7391e49ad96f)
+# [Average-return-CNI-stock-price](https://github.com/Billanas/Average-return-CNI-stock-price/tree/main)
+ <br/>
+![image](https://github.com/Billanas/Portfolio/assets/135276462/b23db4dd-d16d-4e4e-9e0e-7391e49ad96f)
 
  Average Return Calculation for Canadian National Railway Stock Price for past 27 years. The main objective of this project is to analyze the historical stock price data of CNI and calculate the average return for 27 years period. The average return is a key metric used to assess the profitability and volatility of an investment.
