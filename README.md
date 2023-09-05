@@ -14,18 +14,10 @@ In this project, we leverage the power of TensorFlow, a popular machine learning
 The predictive model utilizes a deep learning approach, employing a neural network architecture implemented with TensorFlow. The model consists of multiple layers, allowing it to learn complex patterns and correlations in the data.
 
 Photo by <a href="https://unsplash.com/@zburival?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Zbynek Burival</a> on <a href="https://unsplash.com/photos/GrmwVnVSSdU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
 
-
-
-
-
-
-
-
-
-
-
+ /.
+ /.
+ /.
 
 ![image](https://github.com/Billanas/Portfolio/assets/135276462/a5358301-0272-47dd-9b23-25693f6e0f36)
 # [Duolingo-Stock-MonteCarlo-Simulations](https://github.com/Billanas/Duolingo-Stock-MonteCarlo-Simulations)
