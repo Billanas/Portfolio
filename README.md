@@ -15,11 +15,12 @@ The predictive model utilizes a deep learning approach, employing a neural netwo
 
 Photo by <a href="https://unsplash.com/@zburival?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Zbynek Burival</a> on <a href="https://unsplash.com/photos/GrmwVnVSSdU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
- \.
- \.
- \.
- \.
- \.
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
 
 ![image](https://github.com/Billanas/Portfolio/assets/135276462/a5358301-0272-47dd-9b23-25693f6e0f36)
 # [Duolingo-Stock-MonteCarlo-Simulations](https://github.com/Billanas/Duolingo-Stock-MonteCarlo-Simulations)
