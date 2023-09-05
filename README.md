@@ -45,3 +45,5 @@ The CAPM allows us to estimate the expected return of Duolingo's stock based on 
 
  # [Average-return-CNI-stock-price](https://github.com/Billanas/Average-return-CNI-stock-price/tree/main)
  ![image](https://github.com/Billanas/Portfolio/assets/135276462/b23db4dd-d16d-4e4e-9e0e-7391e49ad96f)
+
+ Average Return Calculation for Canadian National Railway Stock Price for past 27 years. The main objective of this project is to analyze the historical stock price data of CNI and calculate the average return for 27 years period. The average return is a key metric used to assess the profitability and volatility of an investment.
