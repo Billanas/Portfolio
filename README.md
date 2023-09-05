@@ -19,7 +19,15 @@ Photo by <a href="https://unsplash.com/@zburival?utm_source=unsplash&utm_medium=
 
 
 
+
+
+
+
+
+
+
+
 ![image](https://github.com/Billanas/Portfolio/assets/135276462/a5358301-0272-47dd-9b23-25693f6e0f36)
-#[Duolingo-Stock-MonteCarlo-Simulations](https://github.com/Billanas/Duolingo-Stock-MonteCarlo-Simulations)
+# [Duolingo-Stock-MonteCarlo-Simulations](https://github.com/Billanas/Duolingo-Stock-MonteCarlo-Simulations)
 
 The purpose of this project is to provide a simulation-based approach to forecast Duolingo's stock price. By employing the Monte Carlo method, we can generate multiple potential scenarios and analyze the potential range of outcomes.
