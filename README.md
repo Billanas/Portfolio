@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Billanas/Portfolio/assets/135276462/d8fcf2a2-2667-4935-8a71-44b28849bf18)
 
-# [Crude-Oil-Price-WTI-Prediction-TensorFlow] (https://github.com/Billanas/Crude-Oil-Price-WTI-Prediction-TensorFlow).
+# [Crude-Oil-Price-WTI-Prediction-TensorFlow](https://github.com/Billanas/Crude-Oil-Price-WTI-Prediction-TensorFlow).
 
 **Overview**
 
