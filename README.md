@@ -56,7 +56,7 @@ The CAPM allows us to estimate the expected return of Duolingo's stock based on 
  <br/>
  <br/>
 
- # [Analyzing Liquor Sales Trends in Iowa](https://github.com/Billanas/Exploring_Iowa_Liquor_Sales_Data_with_Matplotlib_and_Tableau)
+# [Analyzing Liquor Sales Trends in Iowa](https://github.com/Billanas/Exploring_Iowa_Liquor_Sales_Data_with_Matplotlib_and_Tableau)
 <br/>
 ![image](https://github.com/Billanas/Portfolio/assets/135276462/33a86295-d8bc-4747-b2b3-826cbe51f78f)
 
