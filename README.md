@@ -1,6 +1,6 @@
 # VASILEIOS ANASTASIADIS
 
-# [Crude-Oil-Price-WTI-Prediction-TensorFlow](https://github.com/Billanas/Crude-Oil-Price-WTI-Prediction-TensorFlow)
+# [Crude Oil Price WTI Prediction TensorFlow](https://github.com/Billanas/Crude-Oil-Price-WTI-Prediction-TensorFlow)
 <br/>
 ![image](https://github.com/Billanas/Portfolio/assets/135276462/d8fcf2a2-2667-4935-8a71-44b28849bf18)
 
@@ -19,7 +19,7 @@ Photo by <a href="https://unsplash.com/@zburival?utm_source=unsplash&utm_medium=
  <br/>
 
 
-# [Duolingo-Stock-MonteCarlo-Simulations](https://github.com/Billanas/Duolingo-Stock-MonteCarlo-Simulations)
+# [Duolingo Stock MonteCarlo Simulations](https://github.com/Billanas/Duolingo-Stock-MonteCarlo-Simulations)
 <br/>
 ![image](https://github.com/Billanas/Portfolio/assets/135276462/a5358301-0272-47dd-9b23-25693f6e0f36)
 
@@ -30,7 +30,7 @@ The purpose of this project is to provide a simulation-based approach to forecas
  <br/>
 
 
-# [Duolingo-Stock-Analysis-Beta-CAPM](https://github.com/Billanas/Duolingo-Stock-Analysis-Beta-CAPM)
+# [Duolingo Stock Analysis Beta CAPM](https://github.com/Billanas/Duolingo-Stock-Analysis-Beta-CAPM)
   <br/>
  ![image](https://github.com/Billanas/Portfolio/assets/135276462/8d5c5c6e-a700-4094-b5be-678e056a05a0)
 
@@ -51,3 +51,11 @@ The CAPM allows us to estimate the expected return of Duolingo's stock based on 
 ![image](https://github.com/Billanas/Portfolio/assets/135276462/b23db4dd-d16d-4e4e-9e0e-7391e49ad96f)
 
  Average Return Calculation for Canadian National Railway Stock Price for past 27 years. The main objective of this project is to analyze the historical stock price data of CNI and calculate the average return for 27 years period. The average return is a key metric used to assess the profitability and volatility of an investment.
+
+ # [Analyzing Liquor Sales Trends in Iowa](https://github.com/Billanas/Exploring_Iowa_Liquor_Sales_Data_with_Matplotlib_and_Tableau)
+<br/>
+![image](https://github.com/Billanas/Portfolio/assets/135276462/33a86295-d8bc-4747-b2b3-826cbe51f78f)
+
+**Overview**
+
+This project is a comprehensive analysis of liquor sales in the state of Iowa, USA, spanning from 2012 to 2020. The objective is to identify **the most popular liquor items by zipcode** and **calculate the percentage of sales per store** within the years 2016-2019. The entire workflow, from data extraction to visualization, is performed using SQL, Python, Matplotlib, and Tableau.
