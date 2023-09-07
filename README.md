@@ -46,7 +46,7 @@ The CAPM allows us to estimate the expected return of Duolingo's stock based on 
  <br/>
  <br/>
 
-# [Average-return-CNI-stock-price](https://github.com/Billanas/Average-return-CNI-stock-price/tree/main)
+# [Average return CNI stock price](https://github.com/Billanas/Average-return-CNI-stock-price/tree/main)
  <br/>
 ![image](https://github.com/Billanas/Portfolio/assets/135276462/b23db4dd-d16d-4e4e-9e0e-7391e49ad96f)
 
