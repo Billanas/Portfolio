@@ -68,7 +68,7 @@ This project is a comprehensive analysis of liquor sales in the state of Iowa, U
  <br/>
  <br/>
 
- #
+ # [Complete Financial Project in Excel](https://github.com/Billanas/Complete_Financial_Project_in_Excel)
   <br/>
  ![image](https://github.com/Billanas/Portfolio/assets/135276462/18337165-06de-4650-9118-b60357c3c79f)
  ![image](https://github.com/Billanas/Portfolio/assets/135276462/91e29ece-478a-422a-b287-2d945525bd52)
