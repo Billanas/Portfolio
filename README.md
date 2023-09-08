@@ -63,3 +63,14 @@ The CAPM allows us to estimate the expected return of Duolingo's stock based on 
 **Overview**
 
 This project is a comprehensive analysis of liquor sales in the state of Iowa, USA, spanning from 2012 to 2020. The objective is to identify **the most popular liquor items by zipcode** and **calculate the percentage of sales per store** within the years 2016-2019. The entire workflow, from data extraction to visualization, is performed using SQL, Python, Matplotlib, and Tableau.
+
+ <br/>
+ <br/>
+ <br/>
+
+ #
+  <br/>
+ ![image](https://github.com/Billanas/Portfolio/assets/135276462/18337165-06de-4650-9118-b60357c3c79f)
+ ![image](https://github.com/Billanas/Portfolio/assets/135276462/91e29ece-478a-422a-b287-2d945525bd52)
+
+
