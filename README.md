@@ -70,12 +70,13 @@ This project is a comprehensive analysis of liquor sales in the state of Iowa, U
 
 # [Complete Financial Project in Excel](https://github.com/Billanas/Complete_Financial_Project_in_Excel)
   <br/>
-![image](https://github.com/Billanas/Portfolio/assets/135276462/3d3898bf-e33b-4417-a269-6c6333a65755)
+![image](https://github.com/Billanas/Portfolio/assets/135276462/a3e4c4c5-8aab-475c-bbf6-d7d7b904bc92)
+
 
 
 **Overview**
 
-This project divided in three challenges. In this challenge 1, the task of analyzing data about client profitability using pivot tables was undertaken. A pivot table was created to display the monthly breakdown of gross profit, revenue, and COGS by client. This facilitated the identification of the most profitable client accounts. The challenge 2 involved completing the income statement, profit and loss statement, and balance sheet for the last year's transactions. The challenge 3 involved calculations of residual debt and present value.
+This project divided in three challenges. In the challenge 1, the task of analyzing data about client profitability using pivot tables was undertaken. A pivot table was created to display the monthly breakdown of gross profit, revenue, and COGS by client. This facilitated the identification of the most profitable client accounts. The challenge 2 involved completing the income statement, profit and loss statement, and balance sheet for the last year's transactions. The challenge 3 involved calculations of residual debt and present value.
 
 
 
