@@ -1,4 +1,5 @@
-# VASILEIOS ANASTASIADIS
+# VASILEIOS ANASTASIADIS                                                                                     [![image](https://github.com/Billanas/Portfolio/assets/135276462/29ed5040-2101-41cd-a893-22f7b64cfe4e)](https://github.com/Billanas)  [![image](https://github.com/Billanas/Portfolio/assets/135276462/b1349782-edca-4cd3-b6c9-d058ee39de3d)](https://www.linkedin.com/in/vasileios-anastasiadis-a22b77202/)
+
 
 # [Crude Oil Price WTI Prediction TensorFlow](https://github.com/Billanas/Crude-Oil-Price-WTI-Prediction-TensorFlow)
 <br/>
