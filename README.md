@@ -78,5 +78,13 @@ This project is a comprehensive analysis of liquor sales in the state of Iowa, U
 
 This project divided in three challenges. In the challenge 1, the task of analyzing data about client profitability using pivot tables was undertaken. A pivot table was created to display the monthly breakdown of gross profit, revenue, and COGS by client. This facilitated the identification of the most profitable client accounts. The challenge 2 involved completing the income statement, profit and loss statement, and balance sheet for the last year's transactions. The challenge 3 involved calculations of residual debt and present value.
 
+ <br/>
+ <br/>
+ <br/>
+
+
+[![image](https://github.com/Billanas/Portfolio/assets/135276462/29ed5040-2101-41cd-a893-22f7b64cfe4e)](https://github.com/Billanas)
+
+
 
 
