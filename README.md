@@ -7,6 +7,8 @@
 **Overview**
 
 In this project, we leverage the power of TensorFlow, a popular machine learning framework, to create a predictive model for crude oil prices. The model is trained using historical monthly data.
+Click # (here)  for more
+
 
 **Model Architecture**
 
