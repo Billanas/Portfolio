@@ -40,7 +40,7 @@ The purpose of this project is to provide a simulation-based approach to forecas
 
 **Introduction**
 
-In this project, we perform a comprehensive analysis of Duolingo's stock to assess its risk and expected return. By calculating beta, we can evaluate the stock's sensitivity to market movements. Additionally, we apply the CAPM to estimate the appropriate required return for holding Duolingo's stock.
+In this project, we perform a comprehensive analysis of Duolingo's stock to assess its risk and expected return. By calculating beta, we can evaluate the stock's sensitivity to market movements. Additionally, we apply the CAPM to estimate the appropriate required return for holding Duolingo's stock. For more information click [(here)](https://github.com/Billanas/Duolingo-Stock-Analysis-Beta-CAPM)
 
 **Capital Asset Pricing Model (CAPM)**
 
@@ -54,7 +54,7 @@ The CAPM allows us to estimate the expected return of Duolingo's stock based on 
  <br/>
 ![image](https://github.com/Billanas/Portfolio/assets/135276462/b23db4dd-d16d-4e4e-9e0e-7391e49ad96f)
 
- Average Return Calculation for Canadian National Railway Stock Price for past 27 years. The main objective of this project is to analyze the historical stock price data of CNI and calculate the average return for 27 years period. The average return is a key metric used to assess the profitability and volatility of an investment.
+ Average Return Calculation for Canadian National Railway Stock Price for past 27 years. The main objective of this project is to analyze the historical stock price data of CNI and calculate the average return for 27 years period. The average return is a key metric used to assess the profitability and volatility of an investment. For more information click [(here)](https://github.com/Billanas/Average-return-CNI-stock-price/tree/main)
 
  <br/>
  <br/>
@@ -66,7 +66,7 @@ The CAPM allows us to estimate the expected return of Duolingo's stock based on 
 
 **Overview**
 
-This project is a comprehensive analysis of liquor sales in the state of Iowa, USA, spanning from 2012 to 2020. The objective is to identify **the most popular liquor items by zipcode** and **calculate the percentage of sales per store** within the years 2016-2019. The entire workflow, from data extraction to visualization, is performed using SQL, Python, Matplotlib, and Tableau.
+This project is a comprehensive analysis of liquor sales in the state of Iowa, USA, spanning from 2012 to 2020. The objective is to identify **the most popular liquor items by zipcode** and **calculate the percentage of sales per store** within the years 2016-2019. The entire workflow, from data extraction to visualization, is performed using SQL, Python, Matplotlib, and Tableau. For more information click [(here)](https://github.com/Billanas/Exploring_Iowa_Liquor_Sales_Data_with_Matplotlib_and_Tableau)
 
  <br/>
  <br/>
@@ -80,7 +80,7 @@ This project is a comprehensive analysis of liquor sales in the state of Iowa, U
 
 **Overview**
 
-This project divided in three challenges. In the challenge 1, the task of analyzing data about client profitability using pivot tables was undertaken. A pivot table was created to display the monthly breakdown of gross profit, revenue, and COGS by client. This facilitated the identification of the most profitable client accounts. The challenge 2 involved completing the income statement, profit and loss statement, and balance sheet for the last year's transactions. The challenge 3 involved calculations of residual debt and present value.
+This project divided in three challenges. In the challenge 1, the task of analyzing data about client profitability using pivot tables was undertaken. A pivot table was created to display the monthly breakdown of gross profit, revenue, and COGS by client. This facilitated the identification of the most profitable client accounts. The challenge 2 involved completing the income statement, profit and loss statement, and balance sheet for the last year's transactions. The challenge 3 involved calculations of residual debt and present value.  For more information click [(here)](https://github.com/Billanas/Complete_Financial_Project_in_Excel)
 
  <br/>
  <br/>
