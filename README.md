@@ -7,7 +7,7 @@
 **Overview**
 
 In this project, we leverage the power of TensorFlow, a popular machine learning framework, to create a predictive model for crude oil prices. The model is trained using historical monthly data.
-Click # [here](https://github.com/Billanas/Crude-Oil-Price-WTI-Prediction-TensorFlow) for more
+For more information click [(here)](https://github.com/Billanas/Crude-Oil-Price-WTI-Prediction-TensorFlow) 
 
 
 **Model Architecture**
@@ -26,7 +26,7 @@ Photo by <a href="https://unsplash.com/@zburival?utm_source=unsplash&utm_medium=
 ![image](https://github.com/Billanas/Portfolio/assets/135276462/b2f82683-10b7-4126-9b82-ed0e9f147e94)
 
 
-The purpose of this project is to provide a simulation-based approach to forecast Duolingo's stock price. By employing the Monte Carlo method, we can generate multiple potential scenarios and analyze the potential range of outcomes. For more click # [(here)](https://github.com/Billanas/Duolingo-Stock-MonteCarlo-Simulations) 
+The purpose of this project is to provide a simulation-based approach to forecast Duolingo's stock price. By employing the Monte Carlo method, we can generate multiple potential scenarios and analyze the potential range of outcomes. For more information click [(here)](https://github.com/Billanas/Duolingo-Stock-MonteCarlo-Simulations) 
 
 
 <br/>
