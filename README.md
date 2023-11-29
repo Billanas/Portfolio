@@ -98,9 +98,16 @@ This project divided in three challenges. In the challenge 1, the task of analyz
 
 
 # [Career Track Analysis](https://github.com/Billanas/Career-Track-Analysis/tree/main)
+<br/>
+![image](https://github.com/Billanas/Portfolio/assets/135276462/01408c62-4856-4247-8b5f-d2bf372b0e9e)
+
 
 **Overview**
  
+
+
+To view the SQL Code click [(here)](https://github.com/Billanas/Career-Track-Analysis/tree/main).
+To view the Tableau Dashboard click [(here)](https://public.tableau.com/app/profile/vasileios.anastasiadis/viz/Careertrack/Dashboard1).
 
 
 
