@@ -112,11 +112,11 @@ The project consists of four main components:
 
 # Gender Breakdown
 
-This component analyzes the gender distribution of employees within the specified time period. It calculates the percentage of female and male employees and presents the results in a table.
+This component analyzes the gender distribution of employees within the specified time period. It calculates the percentage of female and male employees.
 
 # Management Distribution
 
-This component examines the distribution of managers across different departments. It determines the number of managers per department for the given time period and visualizes the results using a bar chart.
+This component examines the distribution of managers across different departments. It determines the number of managers per department for the given time period.
 
 # Average Annual Salary
 
