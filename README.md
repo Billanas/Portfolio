@@ -1,5 +1,64 @@
 # VASILEIOS ANASTASIADIS                                                                                    
 
+
+# [Analyzing Liquor Sales Trends in Iowa](https://github.com/Billanas/Exploring_Iowa_Liquor_Sales_Data_with_Matplotlib_and_Tableau)
+<br/>
+![image](https://github.com/Billanas/Portfolio/assets/135276462/33a86295-d8bc-4747-b2b3-826cbe51f78f)
+
+**Overview**
+
+This project is a comprehensive analysis of liquor sales in the state of Iowa, USA, spanning from 2012 to 2020. The objective is to identify **the most popular liquor items by zipcode** and **calculate the percentage of sales per store** within the years 2016-2019. The entire workflow, from data extraction to visualization, is performed using SQL, Python, Matplotlib, and Tableau. To see the project on github click [(here)](https://github.com/Billanas/Exploring_Iowa_Liquor_Sales_Data_with_Matplotlib_and_Tableau).
+
+ <br/>
+ <br/>
+ <br/>
+
+
+ 
+# [Career Track Analysis]([https://github.com/Billanas/Career-Track-Analysis/tree/main](https://public.tableau.com/app/profile/vasileios.anastasiadis/viz/Careertrack/Dashboard1))
+<br/>
+![image](https://github.com/Billanas/Portfolio/assets/135276462/0c189724-1b51-4a6a-8b5e-906e6e112a96)
+
+
+
+**Overview**
+
+
+This project aims to analyze and visualize career track data to gain insights into employee demographics, management distribution, salary trends, and gender pay gaps.
+
+<br/>
+<br/>
+
+**Project Overview**
+
+The project consists of four main components:
+
+**Gender Breakdown**
+
+This component analyzes the gender distribution of employees within the specified time period. It calculates the percentage of female and male employees.
+
+**Management Distribution**
+
+This component examines the distribution of managers across different departments. It determines the number of managers per department for the given time period.
+
+**Average Annual Salary**
+
+This component calculates the average annual salary of all employees for the specified time period. It provides a summary of the average salary and its distribution across the employee population.
+
+**Gender Pay Gap Analysis**
+
+This component investigates potential pay gaps between male and female employees. It calculates the average employee salary by gender and department, identifying any discrepancies in compensation levels.
+
+<br/>
+To view the SQL Code click [(here)](https://github.com/Billanas/Career-Track-Analysis/tree/main).
+<br/>
+To view the Tableau Dashboard click [(here)](https://public.tableau.com/app/profile/vasileios.anastasiadis/viz/Careertrack/Dashboard1).
+
+ <br/>
+ <br/>
+ <br/>
+
+
 # [Crude Oil Price WTI Prediction TensorFlow](https://github.com/Billanas/Crude-Oil-Price-WTI-Prediction-TensorFlow)
 <br/>
 ![image](https://github.com/Billanas/Portfolio/assets/135276462/d8fcf2a2-2667-4935-8a71-44b28849bf18)
@@ -60,17 +119,7 @@ The CAPM allows us to estimate the expected return of Duolingo's stock based on 
  <br/>
  <br/>
 
-# [Analyzing Liquor Sales Trends in Iowa](https://github.com/Billanas/Exploring_Iowa_Liquor_Sales_Data_with_Matplotlib_and_Tableau)
-<br/>
-![image](https://github.com/Billanas/Portfolio/assets/135276462/33a86295-d8bc-4747-b2b3-826cbe51f78f)
 
-**Overview**
-
-This project is a comprehensive analysis of liquor sales in the state of Iowa, USA, spanning from 2012 to 2020. The objective is to identify **the most popular liquor items by zipcode** and **calculate the percentage of sales per store** within the years 2016-2019. The entire workflow, from data extraction to visualization, is performed using SQL, Python, Matplotlib, and Tableau. To see the project on github click [(here)](https://github.com/Billanas/Exploring_Iowa_Liquor_Sales_Data_with_Matplotlib_and_Tableau).
-
- <br/>
- <br/>
- <br/>
 
 # [Complete Financial Project in Excel](https://github.com/Billanas/Complete_Financial_Project_in_Excel)
   <br/>
@@ -91,50 +140,9 @@ This project divided in three challenges. In the challenge 1, the task of analyz
 
 
 
- <br/>
- <br/>
- <br/>
 
 
 
-# [Career Track Analysis]([https://github.com/Billanas/Career-Track-Analysis/tree/main](https://public.tableau.com/app/profile/vasileios.anastasiadis/viz/Careertrack/Dashboard1))
-<br/>
-![image](https://github.com/Billanas/Portfolio/assets/135276462/0c189724-1b51-4a6a-8b5e-906e6e112a96)
-
-
-
-**Overview**
-
-
-This project aims to analyze and visualize career track data to gain insights into employee demographics, management distribution, salary trends, and gender pay gaps.
-
-<br/>
-<br/>
-
-**Project Overview**
-
-The project consists of four main components:
-
-**Gender Breakdown**
-
-This component analyzes the gender distribution of employees within the specified time period. It calculates the percentage of female and male employees.
-
-**Management Distribution**
-
-This component examines the distribution of managers across different departments. It determines the number of managers per department for the given time period.
-
-**Average Annual Salary**
-
-This component calculates the average annual salary of all employees for the specified time period. It provides a summary of the average salary and its distribution across the employee population.
-
-**Gender Pay Gap Analysis**
-
-This component investigates potential pay gaps between male and female employees. It calculates the average employee salary by gender and department, identifying any discrepancies in compensation levels.
-
-<br/>
-To view the SQL Code click [(here)](https://github.com/Billanas/Career-Track-Analysis/tree/main).
-<br/>
-To view the Tableau Dashboard click [(here)](https://public.tableau.com/app/profile/vasileios.anastasiadis/viz/Careertrack/Dashboard1).
 
 
 
