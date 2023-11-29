@@ -17,7 +17,8 @@ This project is a comprehensive analysis of liquor sales in the state of Iowa, U
  
 # [Career Track Analysis]([https://github.com/Billanas/Career-Track-Analysis/tree/main](https://public.tableau.com/app/profile/vasileios.anastasiadis/viz/Careertrack/Dashboard1))
 <br/>
-![image](https://github.com/Billanas/Portfolio/assets/135276462/0c189724-1b51-4a6a-8b5e-906e6e112a96)
+![image](https://github.com/Billanas/Portfolio/assets/135276462/3a67bdfd-e184-46fe-980b-9a233401c8b4)
+
 
 
 
