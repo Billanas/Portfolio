@@ -25,14 +25,7 @@ This project is a comprehensive analysis of liquor sales in the state of Iowa, U
 **Overview**
 
 
-This project aims to analyze and visualize career track data to gain insights into employee demographics, management distribution, salary trends, and gender pay gaps.
-
-<br/>
-<br/>
-
-**Project Overview**
-
-The project consists of four main components:
+This project aims to analyze and visualize career track data to gain insights into employee demographics, management distribution, salary trends, and gender pay gaps. The project consists of four main components:
 
 **Gender Breakdown**
 
