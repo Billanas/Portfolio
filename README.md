@@ -108,6 +108,7 @@ This project divided in three challenges. In the challenge 1, the task of analyz
 This project aims to analyze and visualize career track data to gain insights into employee demographics, management distribution, salary trends, and gender pay gaps.
 
 **Project Overview**
+
 The project consists of four main components:
 
 **Gender Breakdown**
