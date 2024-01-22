@@ -13,6 +13,13 @@ This project is a comprehensive analysis of liquor sales in the state of Iowa, U
  <br/>
  <br/>
 
+#[Inventory Management with Power BI]
+![image](https://github.com/Billanas/Portfolio/assets/135276462/70d55bd1-ff80-40b9-aecb-b233ed8516de)
+
+
+  <br/>
+ <br/>
+ <br/>
 
  
 # [Career Track Analysis]([https://github.com/Billanas/Career-Track-Analysis/tree/main](https://public.tableau.com/app/profile/vasileios.anastasiadis/viz/Careertrack/Dashboard1))
