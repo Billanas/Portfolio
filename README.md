@@ -24,7 +24,7 @@ This project aims to develop a powerful Power BI dashboard. The goal is to offer
 
 **ABC Classification Line Graph:**
  <br/>
-A pivotal feature is the ABC Classification line graph, which distinctly illustrates the percentage share of products categorized into high, medium, and low value groups, offering a clear view of product value distribution.
+A key feature is the ABC Classification line graph, which distinctly illustrates the percentage share of products categorized into high, medium, and low value groups, offering a clear view of product value distribution.
 
 
 **Combined ABC and XYZ Classification Matrices:**
