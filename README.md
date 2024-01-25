@@ -22,11 +22,13 @@ This project is a comprehensive analysis of liquor sales in the state of Iowa, U
 This project aims to develop a powerful Power BI dashboard. The goal is to offer analytics on inventory status, sales performance, and stock management through a series of advanced visualizations and calculations.
 
 
-**ABC Classification Line Graph**
+**ABC Classification Line Graph:**
+ <br/>
 A pivotal feature is the ABC Classification line graph, which distinctly illustrates the percentage share of products categorized into high, medium, and low value groups, offering a clear view of product value distribution.
 
 
 **Combined ABC and XYZ Classification Matrices:**
+ <br/>
 Three matrices integrate ABC and XYZ classifications, providing detailed insights into:
 The Distribution of Annual Revenue.
 The Distribution of Current Stock.
@@ -34,22 +36,27 @@ The Distribution of Inventory Turnover Ratio.
 
 
 
-In-depth Calculations:
+**In-depth Calculations:**
+ <br/>
 The dashboard includes crucial calculations for:
 The Inventory Turnover Ratio Index.
 The current valuation of items in the warehouse.
 The total number of SKUs (stock-keeping units).
 
-Stock Status Doughnut Chart:
+**Stock Status Doughnut Chart:**
+ <br/>
 A doughnut chart displays stock status, categorizing products as “below the reorder point”, “in stock”, and “out of stock”, for direct inventory assessment.
 
-Gauge Chart for SKU Reordering:
+**Gauge Chart for SKU Reordering:**
+ <br/>
 The gauge chart effectively indicates the quantity of SKUs to reorder. 
 
 Revenue and Quantity Flow Line Charts with Forecasting:
+ <br/>
 The project features line charts that not only track the revenue and quantity flow but also provide a forecast for five subsequent periods, aiding in predictive analysis.
 
 Comprehensive Inventory Metrics:
+ <br/>
 A metric display offers a complete overview of current stock quantity, average lead time in days, reorder point, safety stock, and stock status, providing a quick snapshot of essential inventory metrics.
 
 
