@@ -51,11 +51,11 @@ A doughnut chart displays stock status, categorizing products as “below the re
  <br/>
 The gauge chart effectively indicates the quantity of SKUs to reorder. 
 
-Revenue and Quantity Flow Line Charts with Forecasting:
+**Revenue and Quantity Flow Line Charts with Forecasting:**
  <br/>
 The project features line charts that not only track the revenue and quantity flow but also provide a forecast for five subsequent periods, aiding in predictive analysis.
 
-Comprehensive Inventory Metrics:
+**Comprehensive Inventory Metrics:**
  <br/>
 A metric display offers a complete overview of current stock quantity, average lead time in days, reorder point, safety stock, and stock status, providing a quick snapshot of essential inventory metrics.
 
