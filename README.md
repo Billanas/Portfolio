@@ -13,9 +13,44 @@ This project is a comprehensive analysis of liquor sales in the state of Iowa, U
  <br/>
  <br/>
 
-# Inventory Management with Power BI
+# Advanced Inventory and Sales Analytics Dashboard in Power BI
 <br/>
-![image](https://github.com/Billanas/Portfolio/assets/135276462/70d55bd1-ff80-40b9-aecb-b233ed8516de)
+![image](https://github.com/Billanas/Portfolio/assets/135276462/56364b04-0fc3-4ef3-9995-f0c94b36ea83)
+
+**Overview**
+
+This project aims to develop a powerful Power BI dashboard. The goal is to offer analytics on inventory status, sales performance, and stock management through a series of advanced visualizations and calculations.
+
+
+**ABC Classification Line Graph**
+A pivotal feature is the ABC Classification line graph, which distinctly illustrates the percentage share of products categorized into high, medium, and low value groups, offering a clear view of product value distribution.
+
+
+**Combined ABC and XYZ Classification Matrices:**
+Three matrices integrate ABC and XYZ classifications, providing detailed insights into:
+The Distribution of Annual Revenue.
+The Distribution of Current Stock.
+The Distribution of Inventory Turnover Ratio.
+
+
+
+In-depth Calculations:
+The dashboard includes crucial calculations for:
+The Inventory Turnover Ratio Index.
+The current valuation of items in the warehouse.
+The total number of SKUs (stock-keeping units).
+
+Stock Status Doughnut Chart:
+A doughnut chart displays stock status, categorizing products as “below the reorder point”, “in stock”, and “out of stock”, for direct inventory assessment.
+
+Gauge Chart for SKU Reordering:
+The gauge chart effectively indicates the quantity of SKUs to reorder. 
+
+Revenue and Quantity Flow Line Charts with Forecasting:
+The project features line charts that not only track the revenue and quantity flow but also provide a forecast for five subsequent periods, aiding in predictive analysis.
+
+Comprehensive Inventory Metrics:
+A metric display offers a complete overview of current stock quantity, average lead time in days, reorder point, safety stock, and stock status, providing a quick snapshot of essential inventory metrics.
 
 
   <br/>
