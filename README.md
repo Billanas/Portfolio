@@ -124,6 +124,24 @@ Photo by <a href="https://unsplash.com/@zburival?utm_source=unsplash&utm_medium=
  <br/>
 
 
+# A/B Testing for Conversion Rate Optimization
+<br/>
+**Overview**
+
+In this project, I conducted an A/B test to optimize conversion rates for a website, focusing on the effectiveness of different call-to-action (CTA) button wording. The experiment compared two variants: Variant A ("Sign Up Now!") and Variant B ("Get Started for Free!"), aiming to uncover which CTA phrase better motivates users to sign up.
+
+
+**Analysis and Findings** 
+The statistical analysis employed a two-proportion z-test, revealing a p-value of 0.034. This result indicates a statistically significant difference between the conversion rates of the two variants, with Variant B showing superior performance. Specifically, the coefficients—representing the conversion rates—were 4.6% for Variant A and 6.8% for Variant B. The lower p-value than the conventional alpha level of 0.05 underscores the reliability of our findings, suggesting that the difference in conversion rates is not due to random chance.
+**Outcome and Decision**
+
+Based on the statistical evidence, Variant B ("Get Started for Free!") was chosen as the optimal CTA. This decision is grounded in its higher conversion rate, which demonstrates its effectiveness in engaging users and prompting actions. 
+
+<br/>
+ <br/>
+ <br/>
+
+
 # [Duolingo Stock MonteCarlo Simulations](https://github.com/Billanas/Duolingo-Stock-MonteCarlo-Simulations)
 <br/>
 ![image](https://github.com/Billanas/Portfolio/assets/135276462/b2f82683-10b7-4126-9b82-ed0e9f147e94)
