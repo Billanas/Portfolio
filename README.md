@@ -126,6 +126,9 @@ Photo by <a href="https://unsplash.com/@zburival?utm_source=unsplash&utm_medium=
 
 # A/B Testing for Conversion Rate Optimization
 <br/>
+
+![image](https://github.com/Billanas/Portfolio/assets/135276462/22bdc623-f0fd-4c80-9c26-9b78a4758130)
+
 **Overview**
 
 In this project, I conducted an A/B test to optimize conversion rates for a website, focusing on the effectiveness of different call-to-action (CTA) button wording. The experiment compared two variants: Variant A ("Sign Up Now!") and Variant B ("Get Started for Free!"), aiming to uncover which CTA phrase better motivates users to sign up.
