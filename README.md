@@ -136,6 +136,7 @@ In this project, I conducted an A/B test to optimize conversion rates for a webs
 
 **Analysis and Findings** 
 The statistical analysis employed a two-proportion z-test, revealing a p-value of 0.034. This result indicates a statistically significant difference between the conversion rates of the two variants, with Variant B showing superior performance. Specifically, the coefficients—representing the conversion rates—were 4.6% for Variant A and 6.8% for Variant B. The lower p-value than the conventional alpha level of 0.05 underscores the reliability of our findings, suggesting that the difference in conversion rates is not due to random chance.
+
 **Outcome and Decision**
 
 Based on the statistical evidence, Variant B ("Get Started for Free!") was chosen as the optimal CTA. This decision is grounded in its higher conversion rate, which demonstrates its effectiveness in engaging users and prompting actions. 
