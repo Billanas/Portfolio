@@ -142,8 +142,11 @@ Financial Health Assessment: Evaluate essential financial health metrics such as
 
 
 ***Tools & Technologies Used***
+
 **Salesforce CRM & Einstein Analytics:** For robust data storage, manipulation, and deep analytics within the financial services framework.
+
 **SAQL (Salesforce Analytics Query Language):** For crafting complex queries and data aggregations specific to financial metrics.
+
 **Data Visualization Techniques:** To develop dynamic, interactive dashboards within Salesforce, providing real-time, actionable insights into the financial services sector.
 
  <br/>
