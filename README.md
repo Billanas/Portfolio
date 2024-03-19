@@ -132,16 +132,19 @@ This project, developed within the Salesforce CRM platform, aimed at constructin
 ***Objectives***
 
 **Financial Data Integration & In-depth Analysis:** Integrate complex financial services data, including sales transactions, commissions, and incentive details, into Salesforce. Utilize Salesforce Analytics Query Language (SAQL) for advanced data manipulation and analysis.
+
 **Trend Identification for Strategic Forecasting:** Apply time series analysis to financial data to unearth sales trends, employing moving averages to forecast future financial performance.
+
 **Segmentation & Performance Metrics:** Dissect data by geographical regions, product lines, and individual sales agent performance to pinpoint opportunities for growth and areas requiring enhancement.
 Financial Health Assessment: Evaluate essential financial health metrics such as profit margins, commission expenses as a percentage of sales, and incentive effectiveness to guide fiscal strategy and health in the financial services context.
-Leveraging AI for Predictive Insights: Utilize Salesforce Einstein Analytics to construct predictive models based on historical financial data, enhancing decision-making with AI-driven forecasts and performance predictions.
 
-**Tools & Technologies Used**
+**Leveraging AI for Predictive Insights:** Utilize Salesforce Einstein Analytics to construct predictive models based on historical financial data, enhancing decision-making with AI-driven forecasts and performance predictions.
 
-Salesforce CRM & Einstein Analytics: For robust data storage, manipulation, and deep analytics within the financial services framework.
-SAQL (Salesforce Analytics Query Language): For crafting complex queries and data aggregations specific to financial metrics.
-Data Visualization Techniques: To develop dynamic, interactive dashboards within Salesforce, providing real-time, actionable insights into the financial services sector.
+
+***Tools & Technologies Used***
+**Salesforce CRM & Einstein Analytics:** For robust data storage, manipulation, and deep analytics within the financial services framework.
+**SAQL (Salesforce Analytics Query Language):** For crafting complex queries and data aggregations specific to financial metrics.
+**Data Visualization Techniques:** To develop dynamic, interactive dashboards within Salesforce, providing real-time, actionable insights into the financial services sector.
 
  <br/>
  <br/>
