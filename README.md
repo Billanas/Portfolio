@@ -125,12 +125,11 @@ Photo by <a href="https://unsplash.com/@zburival?utm_source=unsplash&utm_medium=
 # CRM Insights and Growth Dashboard: Leveraging Salesforce for Enhanced Sales Performance Analytics
  <br/>
 ![image](https://github.com/Billanas/Portfolio/assets/135276462/10eb4844-05b5-45e4-80c7-9140468ce488)
-
-**Overview**
+***Overview***
 
 This project, developed within the Salesforce CRM platform, aimed at constructing a comprehensive Insights and Growth Dashboard tailored for the financial services industry. This initiative was designed to illuminate key insights into sales performance, financial metrics, and customer relationship dynamics, utilizing rich financial services data.
 
-**Objectives**
+***Objectives***
 
 **Financial Data Integration & In-depth Analysis:** Integrate complex financial services data, including sales transactions, commissions, and incentive details, into Salesforce. Utilize Salesforce Analytics Query Language (SAQL) for advanced data manipulation and analysis.
 **Trend Identification for Strategic Forecasting:** Apply time series analysis to financial data to unearth sales trends, employing moving averages to forecast future financial performance.
