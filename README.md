@@ -130,7 +130,7 @@ Photo by <a href="https://unsplash.com/@zburival?utm_source=unsplash&utm_medium=
 This project, developed within the Salesforce CRM platform, aimed at constructing a comprehensive Insights and Growth Dashboard tailored for the financial services industry. This initiative was designed to illuminate key insights into sales performance, financial metrics, and customer relationship dynamics, utilizing rich financial services data.
 
 **Objectives**
-Financial Data Integration & In-depth Analysis: Integrate complex financial services data, including sales transactions, commissions, and incentive details, into Salesforce. Utilize Salesforce Analytics Query Language (SAQL) for advanced data manipulation and analysis.
+**Financial Data Integration & In-depth Analysis:** Integrate complex financial services data, including sales transactions, commissions, and incentive details, into Salesforce. Utilize Salesforce Analytics Query Language (SAQL) for advanced data manipulation and analysis.
 Trend Identification for Strategic Forecasting: Apply time series analysis to financial data to unearth sales trends, employing moving averages to forecast future financial performance.
 Segmentation & Performance Metrics: Dissect data by geographical regions, product lines, and individual sales agent performance to pinpoint opportunities for growth and areas requiring enhancement.
 Financial Health Assessment: Evaluate essential financial health metrics such as profit margins, commission expenses as a percentage of sales, and incentive effectiveness to guide fiscal strategy and health in the financial services context.
