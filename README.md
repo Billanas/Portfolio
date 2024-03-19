@@ -125,6 +125,7 @@ Photo by <a href="https://unsplash.com/@zburival?utm_source=unsplash&utm_medium=
 # CRM Insights and Growth Dashboard: Leveraging Salesforce for Enhanced Sales Performance Analytics
  <br/>
 ![image](https://github.com/Billanas/Portfolio/assets/135276462/10eb4844-05b5-45e4-80c7-9140468ce488)
+
 <br/>
 ***Overview***
 
@@ -141,8 +142,8 @@ This project, developed within the Salesforce CRM platform, aimed at constructin
 Financial Health Assessment: Evaluate essential financial health metrics such as profit margins, commission expenses as a percentage of sales, and incentive effectiveness to guide fiscal strategy and health in the financial services context.
 
 **Leveraging AI for Predictive Insights:** Utilize Salesforce Einstein Analytics to construct predictive models based on historical financial data, enhancing decision-making with AI-driven forecasts and performance predictions.
-<br/>
 
+<br/>
 ***Tools & Technologies Used***
 
 **Salesforce CRM & Einstein Analytics:** For robust data storage, manipulation, and deep analytics within the financial services framework.
